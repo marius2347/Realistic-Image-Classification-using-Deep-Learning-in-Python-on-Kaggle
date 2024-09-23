@@ -1,4 +1,4 @@
-<h1> Realistic Image Classification Kaggle Competition - DL Python Project</h1>
+<h1>Realistic Image Classification using Deep Learning in Python on Kaggle</h1>
 <br>
 <h2>Features</h2>
 <ul>
