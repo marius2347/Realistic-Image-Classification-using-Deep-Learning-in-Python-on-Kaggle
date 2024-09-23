@@ -10,8 +10,8 @@
     <li>Preprocessing: function for looping through each image name, read the image, and append it to the list</li>
     <li>Normalize data for the computer to read easily (values between 0 and 1)</li>
     <li>Creating the Model with CNN Architecture</li>
-    <li>Data Aagmentation</li>
-    <li>Callbacks: checkpoint, earlyStop, learning rate dynamic</li>
+    <li>Data Augmentation</li>
+    <li>Callbacks: checkpoint, earlyStopping, learning rate dynamic</li>
     <li>Accuracy: 0.65</li>
 </ul>
 
