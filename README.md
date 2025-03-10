@@ -15,16 +15,6 @@
     <li>Accuracy: 0.65</li>
 </ul>
 
-
-<h2>Acknowledgments</h2>
-
-<b> Python3: http://bit.ly/python3-certifications </b>
-<br>
-<b> Machine Learning: https://bit.ly/machine-learning-certification <b>
-<br>
-
-<h2> Link </h2>
-<b> Kaggle: https://www.kaggle.com/competitions/realistic-image-classification</b>
 <br>
 
 <h2>Photo</h2>
